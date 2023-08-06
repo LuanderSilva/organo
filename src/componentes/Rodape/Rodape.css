@@ -1,0 +1,33 @@
+.section-rodape {
+    background-color: #6278F7;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.icone {
+    width: 30px;
+}
+
+.icone-organo {
+    width: 90px;
+}
+
+.lista-icones {
+    list-style: none;
+    display: flex;
+}
+
+.icone:last-child {
+    margin-left: 10px; 
+}
+
+.logo {
+    margin-top: 1em;
+}
+
+.desenvolvimento {
+    margin-right: 2.5em;
+    margin-top: .5em;
+} 
